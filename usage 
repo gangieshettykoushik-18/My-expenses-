@@ -1,0 +1,10 @@
+
+Follow the numbered menu. Dates should be entered in YYYY-MM-DD format (or leave blank to use today when adding).
+
+Analytics will generate two PNG charts in the folder:
+
+category_pie.png — spending share by category
+
+monthly_trend.png — monthly spending totals
+
+Export creates a CSV file (default name expenses_export.csv).
