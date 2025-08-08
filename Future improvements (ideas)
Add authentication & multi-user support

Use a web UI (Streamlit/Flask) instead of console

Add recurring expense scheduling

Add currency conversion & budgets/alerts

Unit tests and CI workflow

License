@@ -1,0 +1,11 @@
+
+->Add authentication & multi-user support
+
+->Use a web UI (Streamlit/Flask) instead of console
+
+->Add recurring expense scheduling
+
+->Add currency conversion & budgets/alerts
+
+->Unit tests and CI workflow
+
